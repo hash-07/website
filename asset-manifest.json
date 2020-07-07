@@ -1,34 +1,36 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.5c6a6845.chunk.css",
-    "main.js": "/website/static/js/main.a5ff1975.chunk.js",
-    "main.js.map": "/website/static/js/main.a5ff1975.chunk.js.map",
+    "main.css": "/website/static/css/main.61a67dca.chunk.css",
+    "main.js": "/website/static/js/main.c8806964.chunk.js",
+    "main.js.map": "/website/static/js/main.c8806964.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.1ef1759c.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.1ef1759c.js.map",
     "static/css/2.75c4ecca.chunk.css": "/website/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.0358ba44.chunk.js": "/website/static/js/2.0358ba44.chunk.js",
-    "static/js/2.0358ba44.chunk.js.map": "/website/static/js/2.0358ba44.chunk.js.map",
+    "static/js/2.d2dcaec7.chunk.js": "/website/static/js/2.d2dcaec7.chunk.js",
+    "static/js/2.d2dcaec7.chunk.js.map": "/website/static/js/2.d2dcaec7.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.f98efe2762713cf0df3c22eaf75cfc11.js": "/website/precache-manifest.f98efe2762713cf0df3c22eaf75cfc11.js",
+    "precache-manifest.8e93bc2f46b3b7a7d9c3575f2dfc5db8.js": "/website/precache-manifest.8e93bc2f46b3b7a7d9c3575f2dfc5db8.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/website/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.5c6a6845.chunk.css.map": "/website/static/css/main.5c6a6845.chunk.css.map",
-    "static/js/2.0358ba44.chunk.js.LICENSE.txt": "/website/static/js/2.0358ba44.chunk.js.LICENSE.txt",
+    "static/css/main.61a67dca.chunk.css.map": "/website/static/css/main.61a67dca.chunk.css.map",
+    "static/js/2.d2dcaec7.chunk.js.LICENSE.txt": "/website/static/js/2.d2dcaec7.chunk.js.LICENSE.txt",
     "static/media/about.png": "/website/static/media/about.dfadd1b4.png",
     "static/media/ai.jpeg": "/website/static/media/ai.8d433257.jpeg",
     "static/media/coffee.jpg": "/website/static/media/coffee.17f9d737.jpg",
     "static/media/digital.jpg": "/website/static/media/digital.d0406c70.jpg",
     "static/media/ethical.png": "/website/static/media/ethical.c9dec2cc.png",
+    "static/media/french.webp": "/website/static/media/french.6bfa274e.webp",
     "static/media/hd.jpg": "/website/static/media/hd.e6844de6.jpg",
     "static/media/laptop.png": "/website/static/media/laptop.1d952d13.png",
     "static/media/ml.jpg": "/website/static/media/ml.1bad0219.jpg",
-    "static/media/web.jpeg": "/website/static/media/web.57e269d7.jpeg"
+    "static/media/web.jpeg": "/website/static/media/web.57e269d7.jpeg",
+    "static/media/ytmarketing.jpg": "/website/static/media/ytmarketing.8f207319.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ef1759c.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.0358ba44.chunk.js",
-    "static/css/main.5c6a6845.chunk.css",
-    "static/js/main.a5ff1975.chunk.js"
+    "static/js/2.d2dcaec7.chunk.js",
+    "static/css/main.61a67dca.chunk.css",
+    "static/js/main.c8806964.chunk.js"
   ]
 }
