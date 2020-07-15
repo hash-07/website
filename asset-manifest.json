@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.45298470.chunk.css",
-    "main.js": "/website/static/js/main.fb8f3d43.chunk.js",
-    "main.js.map": "/website/static/js/main.fb8f3d43.chunk.js.map",
+    "main.css": "/website/static/css/main.53f3a4e6.chunk.css",
+    "main.js": "/website/static/js/main.72f658a3.chunk.js",
+    "main.js.map": "/website/static/js/main.72f658a3.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.1ef1759c.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.1ef1759c.js.map",
     "static/css/2.75c4ecca.chunk.css": "/website/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.e7861596.chunk.js": "/website/static/js/2.e7861596.chunk.js",
-    "static/js/2.e7861596.chunk.js.map": "/website/static/js/2.e7861596.chunk.js.map",
+    "static/js/2.9de0d958.chunk.js": "/website/static/js/2.9de0d958.chunk.js",
+    "static/js/2.9de0d958.chunk.js.map": "/website/static/js/2.9de0d958.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.e4859e95ba9b04408e1375b9f7e99eea.js": "/website/precache-manifest.e4859e95ba9b04408e1375b9f7e99eea.js",
+    "precache-manifest.37e2ba1627d71ed0261474fb6ce401e7.js": "/website/precache-manifest.37e2ba1627d71ed0261474fb6ce401e7.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/website/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.45298470.chunk.css.map": "/website/static/css/main.45298470.chunk.css.map",
-    "static/js/2.e7861596.chunk.js.LICENSE.txt": "/website/static/js/2.e7861596.chunk.js.LICENSE.txt",
+    "static/css/main.53f3a4e6.chunk.css.map": "/website/static/css/main.53f3a4e6.chunk.css.map",
+    "static/js/2.9de0d958.chunk.js.LICENSE.txt": "/website/static/js/2.9de0d958.chunk.js.LICENSE.txt",
+    "static/media/AIfullCourse.jpg": "/website/static/media/AIfullCourse.2d14ed25.jpg",
+    "static/media/AdvancedAI.jpg": "/website/static/media/AdvancedAI.3e539379.jpg",
     "static/media/Angular.jpg": "/website/static/media/Angular.67268026.jpg",
     "static/media/Completebeginners.jpg": "/website/static/media/Completebeginners.14c52ed9.jpg",
     "static/media/Completephpmysql.jpg": "/website/static/media/Completephpmysql.1feed008.jpg",
@@ -27,6 +29,7 @@
     "static/media/LearnCodeWithPhp.jpg": "/website/static/media/LearnCodeWithPhp.80373c06.jpg",
     "static/media/LinuxM.jpg": "/website/static/media/LinuxM.42cb2724.jpg",
     "static/media/NewsPortal.jpg": "/website/static/media/NewsPortal.ce21ab19.jpg",
+    "static/media/Reinforcement.jpg": "/website/static/media/Reinforcement.a089852d.jpg",
     "static/media/Spanish.jpg": "/website/static/media/Spanish.4bf7dc45.jpg",
     "static/media/SqlBootcamp.jpg": "/website/static/media/SqlBootcamp.88fde077.jpg",
     "static/media/Vue.jpg": "/website/static/media/Vue.5d6b54f6.jpg",
@@ -55,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.1ef1759c.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.e7861596.chunk.js",
-    "static/css/main.45298470.chunk.css",
-    "static/js/main.fb8f3d43.chunk.js"
+    "static/js/2.9de0d958.chunk.js",
+    "static/css/main.53f3a4e6.chunk.css",
+    "static/js/main.72f658a3.chunk.js"
   ]
 }
